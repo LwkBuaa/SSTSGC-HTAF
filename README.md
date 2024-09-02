@@ -1,4 +1,4 @@
-# We can publish the code and the weight after the paper is accepted
+# SSTSGC-HTAF: A Spider Shape Temporal-Spatial Graph Convolution from Hierarchical Time Attention Fusion for Skeleton-based Action Recognition
 
 
 # Dependencies
